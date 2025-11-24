@@ -25,7 +25,7 @@
     "typescript": "^5.9.3"
   },
   "dependencies": {
-    "@rbxts/rbxts-jest": "file:../../Roblox-Frameworks/rbxts-jest/rbxts-rbxts-jest-1.0.0.tgz",
+    "@rbxts/rbxts-jest": "^0.0.1",
     "@rbxts/services": "^1.6.0"
   }
 }
